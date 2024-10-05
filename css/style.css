@@ -33,6 +33,12 @@ h1 {
   padding: 3rem;
 }
 
+#corsoweb {
+  background-image: url(../images/banner.jpg);
+  background-position: 50% 1%;
+  background-size: 145%;
+}
+
 input {
   background-color: #f04c2f;
   font-family: Montserrat;
@@ -45,8 +51,26 @@ input {
   border-radius: 7%;
 }
 
-#corsoweb {
-  background-image: url(../images/banner.jpg);
-  background-position: 50% 1%;
-  background-size: 145%;
+.testisopra {
+  text-align: center;
+  padding: 9%;
+  margin-bottom: -20%;
+}
+
+h2 {
+  color: #25a2c3;
+  font-family: Montserrat;
+  font-weight: bold;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  margin-bottom: -3%;
+}
+
+img[alt="notebook"] {
+  width: 65%;
+  height: auto;
+  padding: 10%;
+  padding-left: 17%;
+  border-radius: 50%;
+  margin-bottom: -18%;
 }
