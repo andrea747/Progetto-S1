@@ -1,1 +1,19 @@
-/* Your styles here */
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+#logo {
+  text-align: center;
+}
+
+header {
+  background-color: black;
+  padding: 2.3rem;
+}
+
+img[alt="logo"] {
+  width: 10rem;
+  height: auto;
+}
