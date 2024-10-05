@@ -1,19 +1,52 @@
-body {
-  margin: 0;
-  padding: 0;
-  border: 0;
+header {
+  background-color: black;
+  padding: 2.3rem;
 }
 
 #logo {
   text-align: center;
 }
 
-header {
-  background-color: black;
-  padding: 2.3rem;
-}
-
 img[alt="logo"] {
   width: 10rem;
   height: auto;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 1.2rem;
+  font-family: Open Sans;
+  color: #393d41;
+  line-height: 1.65;
+}
+
+h1 {
+  color: #25a2c3;
+  line-height: 1.01;
+  font-family: Montserrat;
+}
+
+#corsoweb {
+  text-align: center;
+  padding: 3rem;
+}
+
+input {
+  background-color: #f04c2f;
+  font-family: Montserrat;
+  font-weight: bold;
+  color: white;
+  border: 0px;
+  padding: 5%;
+  padding-left: 9%;
+  padding-right: 9%;
+  border-radius: 7%;
+}
+
+#corsoweb {
+  background-image: url(../images/banner.jpg);
+  background-position: 50% 1%;
+  background-size: 145%;
 }
