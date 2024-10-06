@@ -31,9 +31,6 @@ h1 {
 #corsoweb {
   text-align: center;
   padding: 3rem;
-}
-
-#corsoweb {
   background-image: url(../images/banner.jpg);
   background-position: 50% 1%;
   background-size: 145%;
@@ -73,4 +70,43 @@ img[alt="notebook"] {
   padding-left: 17%;
   border-radius: 50%;
   margin-bottom: -18%;
+}
+
+.garantisce {
+  background-color: #e22d0e;
+  color: white;
+  margin-left: -11%;
+  margin-right: -11%;
+  padding: 10%;
+}
+
+h3 {
+  font-size: 35px;
+  font-family: Montserrat;
+}
+
+.garantiscetesto {
+  font-style: oblique;
+  margin-left: -4%;
+  margin-right: -4%;
+}
+
+.mario {
+  font-size: 22px;
+}
+
+.ceoepicode {
+  font-size: 15px;
+  margin-top: -6%;
+}
+
+.imgpc {
+  width: 100%;
+}
+
+.scheda1 {
+  border: #dee1e3;
+  border-style: solid;
+  margin-top: 20%;
+  border-width: 1px;
 }
