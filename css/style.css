@@ -36,7 +36,7 @@ h1 {
   background-size: 145%;
 }
 
-input {
+#partiamo {
   background-color: #f04c2f;
   font-family: Montserrat;
   font-weight: bold;
@@ -131,4 +131,17 @@ h3 {
   border-style: solid;
   margin-top: 25%;
   border-width: 1px;
+}
+
+ul {
+  list-style: none;
+}
+
+footer {
+  background-color: #25a2c3;
+  color: white;
+  margin-left: -11%;
+  margin-right: -11%;
+  margin-bottom: -17%;
+  margin-top: 21%;
 }
